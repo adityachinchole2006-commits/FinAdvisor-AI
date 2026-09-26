@@ -1,0 +1,6 @@
+{
+  "name": "FinAdvisor AI - Personal Finance Advisor Bot",
+  "description": "AI-powered personal finance management dashboard with income & expense tracking, budget planning, savings goals, financial health analysis, and an intelligent Gemini financial advisor bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
